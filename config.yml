@@ -1,9 +1,9 @@
 # RENAME FILE TO 'config.yml'
 bot:
-  token: TOKEN FROM DISCORD
+  token: MTA2NzEzNTM3Mzk4NzMwMzU2NQ.GmaEyr.HdgyblfvRy2YYlZpafXBO1r_9kL9G7-3oHGtOI
   owner_ids:
-    - 123456789123456789
-    - 987654321987654321
+    - 700733644729483384
+    - 700733644729483384
   prefix: $
   default_bet: 100
   bonus_multiplier: 5 # bonus = default_bet * multiplier
