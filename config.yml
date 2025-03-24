@@ -2,8 +2,8 @@
 bot:
   token: MTA2NzEzNTM3Mzk4NzMwMzU2NQ.GmaEyr.HdgyblfvRy2YYlZpafXBO1r_9kL9G7-3oHGtOI
   owner_ids:
-    - 700733644729483384
-    - 700733644729483384
+    - 1067135373987303565
+    - 1067135373987303565
   prefix: $
   default_bet: 100
   bonus_multiplier: 5 # bonus = default_bet * multiplier
